@@ -1,3 +1,6 @@
+# 概要
+react,typescriptの基本的なtodoapp
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
